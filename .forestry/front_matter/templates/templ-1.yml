@@ -26,3 +26,5 @@ fields:
     max: 
     labelField: 
   label: FG01
+pages:
+- content/jocuri/fifa-2001-xbox-one.md
