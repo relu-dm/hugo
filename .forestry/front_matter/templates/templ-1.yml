@@ -8,3 +8,21 @@ fields:
 - type: datetime
   name: date
   label: date
+- name: fg01
+  type: field_group_list
+  fields:
+  - name: fg0101
+    type: text
+    config:
+      required: false
+    label: FG0101
+  - name: fg0102
+    type: file
+    config:
+      maxSize: 64
+    label: FG0102
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: FG01
