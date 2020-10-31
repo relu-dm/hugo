@@ -7,7 +7,6 @@ sections:
 - type: document
   path: L1
   label: L1
-  match: "**/*"
 - type: directory
   path: content
   label: Pages
